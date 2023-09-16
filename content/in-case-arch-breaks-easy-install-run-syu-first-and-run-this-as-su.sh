@@ -1,7 +1,16 @@
 #!/bin/bash
 
-# in case endeavourOS breaks, easyly install nearly everything needed.
+# DOCUMENTATION!
+
+# in case endeavourOS breaks, easily install nearly everything needed.
+
+
+
+
 # run syu first, restart and run this bash script as su
+
+
+
 
 # pacman packages
 pacman -S xclip timeshift ksysguard nodejs npm
