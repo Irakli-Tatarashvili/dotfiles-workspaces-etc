@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# DOCUMENTATION!
+# -> DOCUMENTATION!
+# -> in case endeavourOS breaks, easily install nearly everything needed.
+# tasks:
+# add keyboard layout
 
-# in case endeavourOS breaks, easily install nearly everything needed.
 
-
-
-
-# run syu first, restart and run this bash script as su
+# THEN
+# run syu, restart and run this bash script as su
 
 
 
