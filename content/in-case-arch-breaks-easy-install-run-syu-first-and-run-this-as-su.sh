@@ -13,11 +13,11 @@
 
 
 # pacman packages
-pacman -S xclip timeshift ksysguard nodejs npm
+pacman -S xclip timeshift ksysguard nodejs npm ffmpegthumbs
 
 
 # npm global packages
-npm install -g typescript purgecss uglifyjs-folder
+npm install -g typescript uglifyjs-folder
 
 # activate bluetooth on EndeavourOS
 sudo systemctl start bluetooth
