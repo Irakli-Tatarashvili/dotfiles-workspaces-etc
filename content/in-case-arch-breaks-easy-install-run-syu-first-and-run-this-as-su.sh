@@ -7,17 +7,15 @@
 
 
 # THEN
-# run syu, restart and run this bash script as su
-
-
+# run pacman -Syu, restart and run this bash script as su
 
 
 # pacman packages
-pacman -S xclip timeshift ksysguard nodejs npm ffmpegthumbs
+pacman -S xclip nodejs npm ksysguard ffmpegthumbs timeshift
 
 
 # npm global packages
-npm install -g typescript uglifyjs-folder
+npm install -g typescript
 
 # activate bluetooth on EndeavourOS
 sudo systemctl start bluetooth
