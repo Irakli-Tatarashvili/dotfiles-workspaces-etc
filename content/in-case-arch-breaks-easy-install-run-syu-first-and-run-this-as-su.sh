@@ -21,7 +21,8 @@ npm install -g typescript
 sudo systemctl start bluetooth
 sudo systemctl enable bluetooth
 
-
+# activate timeshift autobackup
+sudo systemctl enable --now cronie.service
 
 
 # now restart the computer!
