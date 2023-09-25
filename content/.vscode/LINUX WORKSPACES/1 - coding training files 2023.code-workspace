@@ -4,5 +4,7 @@
 			"path": "../../../../1-web-development-projects/1 - coding training files 2023"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
 }
