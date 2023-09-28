@@ -8,17 +8,19 @@
 # - add keyboard layout
 # - configure libreoffice darkmode
 
-# install needed pacman packages
+
+
+# installs useful pacman packages
 sudo pacman -S xclip nodejs npm ksysguard ffmpegthumbs timeshift
 
-# npm global packages
-sudo npm install -g typescript
+# installs npm global packages
+sudo npm install -g typescript @vue/cli
 
-# activate bluetooth on EndeavourOS
+# activates bluetooth on EndeavourOS
 sudo systemctl start bluetooth
 sudo systemctl enable bluetooth
 
-# activate timeshift autobackup
+# activates timeshift autobackup
 sudo systemctl enable --now cronie.service
 
 
