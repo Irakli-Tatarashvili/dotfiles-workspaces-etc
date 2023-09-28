@@ -2,17 +2,17 @@
 
 # IN-FILE DOCUMENTATION!
 
-# after installing EndeavourOS, you can run this script for fast installation of used softwares.
+# after installing EndeavourOS, LOGIN AS SUDO and run this script for fast installation of used softwares.
 
 # unrelated to this script / things you have to do since shell can't do them:
 # - add keyboard layout
 # - configure libreoffice darkmode
 
 # install needed pacman packages
-pacman -S xclip nodejs npm ksysguard ffmpegthumbs timeshift
+sudo pacman -S xclip nodejs npm ksysguard ffmpegthumbs timeshift
 
 # npm global packages
-npm install -g typescript
+sudo npm install -g typescript
 
 # activate bluetooth on EndeavourOS
 sudo systemctl start bluetooth
