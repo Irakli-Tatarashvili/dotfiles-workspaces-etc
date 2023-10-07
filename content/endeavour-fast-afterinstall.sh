@@ -11,9 +11,9 @@
 
 
 # installs useful pacman packages
-sudo pacman -S --noconfirm xclip nodejs npm ksysguard ffmpegthumbs timeshift
+sudo pacman -S --noconfirm xclip nodejs npm ksysguard ffmpegthumbs timeshift dotnet-sdk aspnet-runtime nuget
 
-sudo yay -S --noconfirm visual-studio-code-bin
+yay -S --noconfirm visual-studio-code-bin
 
 # installs npm global packages
 sudo npm install -g typescript @vue/cli
