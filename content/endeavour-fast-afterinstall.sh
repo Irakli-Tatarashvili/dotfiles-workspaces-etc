@@ -18,6 +18,9 @@ yay -S --noconfirm visual-studio-code-bin
 # installs npm global packages
 sudo npm install -g typescript @vue/cli
 
+# installs vue template
+dotnet new install Microsoft.AspNetCore.SpaTemplates::*
+
 # activates bluetooth on EndeavourOS
 sudo systemctl start bluetooth
 sudo systemctl enable bluetooth
