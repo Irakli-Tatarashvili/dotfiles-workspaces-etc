@@ -10,16 +10,19 @@
 
 
 
+sudo yay
 # installs useful pacman packages
 sudo pacman -S --noconfirm xclip nodejs npm ksysguard ffmpegthumbs timeshift dotnet-sdk aspnet-runtime nuget
 
+# installs vscode
 yay -S --noconfirm visual-studio-code-bin
 
-# installs npm global packages
+# installs useful npm global packages
 sudo npm install -g typescript @vue/cli
 
 # installs vue template
 dotnet new install Microsoft.AspNetCore.SpaTemplates::*
+dotnet new install Vue.Simple.Template
 
 # activates bluetooth on EndeavourOS
 sudo systemctl start bluetooth
@@ -35,7 +38,6 @@ sudo pacman -Syu --needed linux-headers --noconfirm
 sudo pacman -S virtualbox virtualbox-guest-iso
 sudo modprobe vboxdrv
 yay -S virtualbox-ext-oracle
-
 # installing virtual box END
 
 
