@@ -28,10 +28,15 @@ sudo systemctl enable bluetooth
 # activates timeshift autobackup
 sudo systemctl enable --now cronie.service
 
+# installing virtual box
+sudo pacman -Syu --needed linux-headers --noconfirm
 
+# choose virtualbox-host-modules-arch if asked.
+sudo pacman -S virtualbox virtualbox-guest-iso
+sudo modprobe vboxdrv
+yay -S virtualbox-ext-oracle
 
-
-
+# installing virtual box END
 
 
 
