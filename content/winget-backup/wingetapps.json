@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-10-14T20:02:55.684-00:00",
+	"CreationDate" : "2023-10-14T21:56:35.443-00:00",
 	"Sources" : 
 	[
 		{
@@ -58,10 +58,10 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
-					"PackageIdentifier" : "Python.Launcher"
+					"PackageIdentifier" : "Oracle.VirtualBox"
 				},
 				{
-					"PackageIdentifier" : "Oracle.VirtualBox"
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.SDK.7"
