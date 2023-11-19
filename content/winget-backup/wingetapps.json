@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-11-18T11:19:19.513-00:00",
+	"CreationDate" : "2023-11-19T16:10:13.012-00:00",
 	"Sources" : 
 	[
 		{
@@ -23,6 +23,9 @@
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
 					"PackageIdentifier" : "Opera.OperaGX"
@@ -52,6 +55,9 @@
 					"PackageIdentifier" : "Oracle.VirtualBox"
 				},
 				{
+					"PackageIdentifier" : "Google.GoogleDrive"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
@@ -59,6 +65,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
 					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
