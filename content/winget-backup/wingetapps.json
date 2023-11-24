@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-11-19T16:10:13.012-00:00",
+	"CreationDate" : "2023-11-24T18:04:27.450-00:00",
 	"Sources" : 
 	[
 		{
@@ -11,6 +11,12 @@
 				},
 				{
 					"PackageIdentifier" : "Piriform.CCleaner"
+				},
+				{
+					"PackageIdentifier" : "Figma.Figma"
+				},
+				{
+					"PackageIdentifier" : "Figma.FigmaAgent"
 				},
 				{
 					"PackageIdentifier" : "Git.Git"
