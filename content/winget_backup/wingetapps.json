@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-12-08T11:21:36.139-00:00",
+	"CreationDate" : "2023-12-10T20:32:25.754-00:00",
 	"Sources" : 
 	[
 		{
@@ -53,9 +53,6 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
-				},
-				{
-					"PackageIdentifier" : "Oracle.VirtualBox"
 				},
 				{
 					"PackageIdentifier" : "Google.GoogleDrive"
