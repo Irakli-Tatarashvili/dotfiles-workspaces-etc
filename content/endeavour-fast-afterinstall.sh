@@ -46,3 +46,4 @@ sudo systemctl enable --now cronie.service
 check_exit_status "Timeshift autobackup activation"
 
 # now save whatever you are doing and reboot the computer!
+# test
