@@ -21,7 +21,7 @@ check_exit_status() {
 
 # installs useful pacman packages
 sudo pacman -S --noconfirm xclip nodejs npm ksysguard ffmpegthumbs timeshift dotnet-sdk aspnet-runtime nuget
-check_exit_status "yacman installation of packages"
+check_exit_status "pacman installation of packages"
 
 # installs useful yay packages
 yay -S --noconfirm visual-studio-code-bin figma-linux
