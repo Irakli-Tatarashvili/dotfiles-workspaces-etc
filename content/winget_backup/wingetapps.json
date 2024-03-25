@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-12-10T20:32:25.754-00:00",
+	"CreationDate" : "2024-03-25T21:43:09.509-00:00",
 	"Sources" : 
 	[
 		{
@@ -10,7 +10,13 @@
 					"PackageIdentifier" : "NexusMods.Vortex"
 				},
 				{
-					"PackageIdentifier" : "Piriform.CCleaner"
+					"PackageIdentifier" : "Piriform.CCleaner.ProTrial"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
 					"PackageIdentifier" : "Figma.Figma"
@@ -34,6 +40,9 @@
 					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
+					"PackageIdentifier" : "Opera.OperaGX"
+				},
+				{
 					"PackageIdentifier" : "Rufus.Rufus"
 				},
 				{
@@ -43,25 +52,43 @@
 					"PackageIdentifier" : "RARLab.WinRAR"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+					"PackageIdentifier" : "Flywheel.Local"
+				},
+				{
+					"PackageIdentifier" : "qBittorrent.qBittorrent"
+				},
+				{
+					"PackageIdentifier" : "Roblox.Roblox"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
 					"PackageIdentifier" : "Python.Launcher"
 				},
 				{
-					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
 					"PackageIdentifier" : "Google.GoogleDrive"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.7"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.7"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
@@ -70,19 +97,25 @@
 					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "GoLang.Go"
+				},
+				{
 					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
 				},
 				{
 					"PackageIdentifier" : "Maximus5.ConEmu"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.7"
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.SDK.7"
-				},
-				{
-					"PackageIdentifier" : "Python.Python.3.11"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				}
 			],
 			"SourceDetails" : 
