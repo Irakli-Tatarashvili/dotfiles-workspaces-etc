@@ -20,7 +20,7 @@ check_exit_status() {
 # || Installing pacman and AUR packages
 
 # installs useful pacman packages
-sudo pacman -S --noconfirm xclip nodejs npm ksysguard ffmpegthumbs timeshift dotnet-sdk aspnet-runtime nuget
+sudo pacman -S --noconfirm xclip nodejs npm ksysguard ffmpegthumbs timeshift dotnet-sdk aspnet-runtime nuget  pacman -S github-cli
 check_exit_status "pacman installation of packages"
 
 # installs useful yay packages
